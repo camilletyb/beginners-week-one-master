@@ -1,0 +1,38 @@
+body {
+    background: white; 
+    color:grey;
+    font family: 'courier new'; courier; monogram
+    margin: 30px;
+border: 30px solid grey
+
+}
+
+div {
+min-height: 50vh;
+border: 10px solid grey;
+width: 100vw;
+
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+h2 {
+
+    text-align: left;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+img {
+display: flex;
+padding: 20px;
+margin: 0 auto;
+border-radius: 100%;
+width: 30%
+
+}
